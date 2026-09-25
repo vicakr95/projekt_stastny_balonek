@@ -14,3 +14,31 @@ Balonky {
 }
 
 Balonek {}
+
+.menu {
+    background-color: #b5b3b3;
+    overflow: hidden;
+    font-size: 15px;
+    display: flex;
+    gap: 50px;
+    text-decoration: none;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    color: #c20000;
+    background-color: #b5b3b3;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+    color: #2518ae;
+    background-color: #b5b3b3;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
