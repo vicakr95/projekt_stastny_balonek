@@ -3,10 +3,18 @@ footer {
     color: white;
     text-align: center;
     padding: 10px;
-    position: fixed;
+    position: static;
     bottom: 0;
     width: 100%;
 }
+
+Balonky {
+    display: flex;
+    justify-content: row;
+}
+
+Balonek {}
+
 .menu {
     background-color: #b5b3b3;
     overflow: hidden;
@@ -16,6 +24,7 @@ footer {
     text-decoration: none;
     justify-content: center;
 }
+
 h1 {
     font-size: 60px;
     text-align: center;
@@ -24,6 +33,7 @@ h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: bold;
 }
+
 h2 {
     font-size: 30px;
     text-align: center;
